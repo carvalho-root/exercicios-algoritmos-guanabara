@@ -8,13 +8,15 @@ O principal objetivo deste repositório é consolidar os conhecimentos de lógic
 
 ## Conteúdo
 
-Os exercícios estão organizados por módulos ou aulas do curso, cobrindo tópicos como:
+Os exercícios estão organizados por **Aulas**, seguindo o cronograma do curso:
 
-- Variáveis e Tipos de Dados
-- Operadores Aritméticos e Lógicos
-- Estruturas de Condição (Escolha-Caso, Se-Então-Senão)
-- Estruturas de Repetição (Para, Enquanto)
-- Vetores e Matrizes
+- **Aula 01** introdução a Algoritmos
+- **Aulas 02 a 04:** Conceitos básicos, Variáveis e Operadores.
+- **Aula 05** Introdução ao Scratch
+- **Aula 06:** Resolução de exercícios
+- **Aulas 07 a 11:** Estruturas de Condição (Se/Senão/Escolha/Enquanto/Para).
+- **Aulas 12:** Estruturas de Repetição e Procedimentos.
+- **Aula 13 até a 15:** Funções,Vetores,Matrizes.
 
 ## Ferramentas
 
