@@ -10,9 +10,9 @@ O principal objetivo deste repositório é consolidar os conhecimentos de lógic
 
 Os exercícios estão organizados por **Aulas**, seguindo o cronograma do curso:
 
-- **Aula 01** introdução a Algoritmos
+- **Aula 01:** introdução a Algoritmos
 - **Aulas 02 a 04:** Conceitos básicos, Variáveis e Operadores.
-- **Aula 05** Introdução ao Scratch
+- **Aula 05:** Introdução ao Scratch
 - **Aula 06:** Resolução de exercícios
 - **Aulas 07 a 11:** Estruturas de Condição (Se/Senão/Escolha/Enquanto/Para).
 - **Aulas 12:** Estruturas de Repetição e Procedimentos.
