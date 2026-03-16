@@ -14,7 +14,8 @@ Os exercícios estão organizados por **Aulas**, seguindo o cronograma do curso:
 - **Aulas 02 a 04:** Conceitos básicos, Variáveis e Operadores.
 - **Aula 05:** Introdução ao Scratch
 - **Aula 06:** Resolução de exercícios
-- **Aulas 07 a 11:** Estruturas de Condição (Se/Senão/Escolha/Enquanto/Para).
+- **Aulas 07 e 08:** Estruturas de Condição (Se/Senão/Então/Escolha/Caso).
+- **Aula 09 a 11** Estruturas de Repetição(Para/Enquanto/Repita)
 - **Aulas 12:** Estruturas de Repetição e Procedimentos.
 - **Aula 13 até a 15:** Funções,Vetores,Matrizes.
 
