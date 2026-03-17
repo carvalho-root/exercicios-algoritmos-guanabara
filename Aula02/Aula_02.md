@@ -62,6 +62,9 @@ Aqui é onde o bicho pega no VisualG.
 ### 📂 Arquivos desta pasta:
 - `HELLO WORLD.ALG`: Meu primeiro código funcional.
 - `Aula_02.md`: Essa anotação da aula 02 
+- `Resultado_HELLO_WORLD` : print do comando aprendido
+
+![Resultado Hello World](Resultado_HELLO_WORLD.PNG)
 
 ## 🚀 Insight e Atalhos
 - **Dica de Ouro:** No VisualG, use `! + Ctrl + Espaço` para abrir a estrutura básica (o famoso "esqueleto").
