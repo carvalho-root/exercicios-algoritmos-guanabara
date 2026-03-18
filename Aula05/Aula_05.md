@@ -26,3 +26,21 @@ Algoritmos no Scratch
  │    └── Ex: Espere 1 segundo / Repita 10 vezes
  └── Sensores (Condições)
       └── Ex: Tocando em "cor tal?" ou "ponteiro do mouse?"
+
+```
+
+---
+
+## 📝 Anotações de Suporte
+**Destaque**: O Scratch ajuda a entender que a ordem dos blocos altera completamente o resultado final. Um passo no lugar errado quebra a lógica.
+
+**Observação**: No Scratch, os personagens são chamados de "Atores" e os cenários de "Palcos". Cada ator pode ter seu próprio script (algoritmo).
+
+
+
+## 🚀 Insight do Dia
+**Dica de Ouro**: Não subestime os blocos. A lógica que você constrói encaixando peças no Scratch é a mesma que você vai usar escrevendo linhas de código no VisualG e no JavaScript.
+
+**Status**: Entendido e fixado! 🧠
+
+[⬅️ Voltar para o início](../README.md)
